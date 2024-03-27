@@ -1,5 +1,5 @@
 
-## Fork: from Course MLops [Ayush Singh]( https://www.youtube.com/channel/UCkRFwipiIqBTakN-mkZ-GcQ)
+## Fork: from [Ayush Singh]( https://www.youtube.com/channel/UCkRFwipiIqBTakN-mkZ-GcQ) Course MLops 
 -------- 
 # Predicting how a customer will feel about a product before they even ordered it
 
